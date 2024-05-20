@@ -255,7 +255,7 @@ img {
 
 /* ===== ABOUT =====*/
 .about__container {
-  row-gap: 1rem;
+  row-gap: 6rem;
   text-align: center;
 }
 
