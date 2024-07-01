@@ -1,2 +1,3 @@
 # my-portfolio
-this contains all information about my career 
+
+Welcome to my portfolio website !
